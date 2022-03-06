@@ -1,9 +1,9 @@
 package constructor_com_argumentos;
 
 public class Pessoa {
-    String nome;
-    int idade;
-    boolean vivo;
+    private String nome;
+    private int idade;
+    private boolean vivo;
 
     /**
      * Construtor com Argumentos, na maioria dos casos, é vantajoso utilizar essa
